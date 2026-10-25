@@ -1,0 +1,53 @@
+outlet_id,city,address,region,outlet_type,opened_date,seating_capacity,manager_name,is_active
+OUT001,kochi,"330, Marine Drive Lane, Kochi",South,Dine-in Only,2020-05-20,60,Vishal Banerjee,Yes
+OUT002,Jaipur,"71, Koramangala 5th Block, Jaipur",North,Dine-in Only,2022-10-21,50,Irfan Jain,Yes
+OUT003,Banglore,"196, Andheri West, Bengaluru",South,Delivery Only,2022-09-26,0,Pankaj Shah,No
+OUT004,mumbai,"175, Station Road, Mumbai",West,Dine-in + Delivery,2024-01-09,80,Naveen Sharma,Yes
+OUT005,INDORE,"55, Camp Area, Indore",Central,Dine-in Only,2023-08-13,80,Radhika Verma,Yes
+OUT006,Bengaluru,"1, Andheri West, Bengaluru",South,Dine-in Only,24 Oct 2019,50,Siddharth Rao,Yes
+OUT007,Kolkata,"41, Ring Road, Kolkata",East,Dine-in Only,2020-09-07,20,Aadhya Pillai,Yes
+OUT008,JAIPUR,"282 , Sector 17 , Jaipur",North,Delivery Only,2019-06-10,0,Rohit Jain,Yes
+OUT009,JAIPUR,"333, SG Highway, Jaipur",North,Delivery Only,2021-06-30,,Irfan Jain,Yes
+OUT010,Delhi,"113, MG Road, Delhi",North,Dine-in Only,2018-03-28,50,Sai Das,Yes
+OUT011,kochi,"343, Gariahat Road, Kochi",South,Dine-in + Delivery,2021-09-15,20,Riya Bansal,Yes
+OUT012,KOCHI,"209, Linking Road, Kochi",South,Cloud Kitchen,2020-09-22,0,Pari Mittal,Yes
+OUT013,SURAT,"56, Brigade Road, Surat",West,Dine-in + Delivery,2019-02-08,20,Irfan Jain,Yes
+OUT014,Pune,"39, Marine Drive Lane, Pune",West,Delivery Only,14-02-2021,0,Amit Mittal,Yes
+OUT015,surat,"209, Gariahat Road, Surat",West,Dine-in + Delivery,2019-01-18,80,Faisal Sheikh,Yes
+OUT016,Banglore,"233 , Camp Area , Bengaluru",South,Cloud Kitchen,2018-01-09,0,Gopal Shah,Yes
+OUT017,Hyderabad ,"32, FC Road, Hyderabad",South,Dine-in Only,2020-06-10,20,Vishal Patel,Yes
+OUT018,SURAT,"96, Ring Road, Surat",West,Delivery Only,2018-08-21,0,Riya Bansal  ,Yes
+OUT019,Cochin,"42, Banjara Hills, Kochi",South,Delivery Only,2024-06-29,0,Pankaj Shah,No
+OUT020,Indore,"331, Camp Area, Indore",Central,Dine-in Only,04-09-2020,40,Irfan Jain,Yes
+OUT021,Lucknow,"68, SG Highway, Lucknow",North,Dine-in + Delivery,2018-10-28,50,Ayesha Mukherjee,Yes
+OUT022,Banglore,"335, Koramangala 5th Block, Bengaluru",South,Cloud Kitchen,2024-02-04,0,,Yes
+OUT023,Cochin,"381, Jubilee Hills, Kochi",South,Delivery Only,2020-12-19,0,Deepika Srivastava,Yes
+OUT024,HYDERABAD,"27 , Ring Road , Hyderabad",South,Dine-in Only,02-09-2023,45,Anika Bhatt,Yes
+OUT025,Kolkata,"283, Banjara Hills, Kolkata",East,Delivery Only,12/08/2020,0,Pankaj Chauhan,Yes
+OUT026,kochi,"299, Jubilee Hills, Kochi",South,Delivery Only,13-02-2024,0,Naveen Chopra,Yes
+OUT027,KOCHI,"53, SG Highway, Kochi",South,Dine-in + Delivery,2022-01-05,30,Ravi Das,Yes
+OUT028,INDORE,"91 , Banjara Hills , Indore",Central,Delivery Only,2020-08-27,0,,Yes
+OUT029,Pune ,"56, Civil Lines, Pune",West,Delivery Only,2020-12-28,0,Pankaj Chauhan,Yes
+OUT030,Amdavad,"115, MG ROAD, AHMEDABAD",West,Dine-in Only,2021-06-04,-80,Pari Mittal,Yes
+OUT031,Surat,"348, Jubilee Hills, Surat",West,Dine-in + Delivery,17 Feb 2021,40,Kunal Rao,Yes
+OUT032,CHENNAI,"223, SG Highway, Chennai",South,Delivery Only,2020-12-23,0,,Yes
+OUT033,New  Delhi,"363, Banjara Hills, Delhi",North,Cloud Kitchen,2024-06-19,0,,Yes
+OUT034,INDORE,"341, FC Road, Indore",Central,Delivery Only,2022-01-31,0,Sai Bose,No
+OUT035,Madras,"284, Main Bazaar, Chennai",South,Dine-in Only,2022-07-31,40,Irfan Jain,Yes
+OUT036,KOCHI,"1 , Camp Area , Kochi",South,Delivery Only,2024-05-20,0,Vidya Srivastava  ,Yes
+OUT037,kolkata,"262, Gariahat Road, Kolkata",East,Cloud Kitchen,2022-12-15,0,Ira Solanki,Yes
+OUT038,Chandigarh,"159, Brigade Road, Chandigarh",North,Dine-in Only,18-01-2019,80,,Yes
+OUT039,Hyderabad ,"323, Vashi Sector 10, Hyderabad",South,Cloud Kitchen,2018-10-26,0,TBD,Yes
+OUT040,CHANDIGARH,"357 , Koramangala 5th Block , Chandigarh",North,Dine-in + Delivery,2019-03-13,80,,Yes
+OUT041,surat,"272, Jubilee Hills, Surat",West,Dine-in + Delivery,2023-02-13,30,Yash Banerjee,Yes
+OUT042,Indore,"381, Gariahat Road, Indore",Central,Cloud Kitchen,2024-02-23,0,Ira Solanki,Yes
+OUT043,nagpur,"366, Camp Area, Nagpur",Central,Cloud Kitchen,2020-09-06,0,Naveen Sharma,Yes
+OUT044,BENGALURU,"362, Linking Road, Bengaluru",South,Delivery Only,2020-08-05,0,Gopal Shah,Yes
+OUT045,Mumbai ,"300, MG Road, Mumbai",West,Delivery Only,2022-09-17,,Gopal Shah,Yes
+OUT046,kolkata,"215, Jubilee Hills, Kolkata",East,Dine-in Only,2022-05-17,80,Imran Goyal,Yes
+OUT047,Madras,"343, Civil Lines, Chennai",South,Cloud Kitchen,2023-06-13,0,Vihaan Khan,Yes
+OUT048,jaipur,"43, Banjara Hills, Jaipur",North,Dine-in + Delivery,2022-06-02,50,Pankaj Sheikh,Yes
+OUT049,Madras,"173, Civil Lines, Chennai",South,Cloud Kitchen,2021-09-02,0,Ayesha Mukherjee,Yes
+OUT050,mumbai,"334 , Park Street , Mumbai",West,Dine-in + Delivery,2021-12-04,30,Kunal Rao,No
+OUT038,Chandigarh,"159, Brigade Road, Chandigarh",North,Dine-in Only,18-01-2019,80,,Yes
+OUT046,kolkata,"215, Jubilee Hills, Kolkata",East,Dine-in Only,2022-05-17,80,Imran Goyal,Yes
