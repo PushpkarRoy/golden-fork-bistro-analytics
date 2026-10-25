@@ -1,0 +1,55 @@
+item_id,item_name,category,sub_category,price,cost_price,calories,is_available,launch_date
+ITM001,"Butter Chicken","Main Course","North Indian",320,114.47,400,Yes,2019-08-13
+ITM002,"Paneer Butter Masala","Main Course","North Indian",280,103.39,450,Yes,2023-01-01
+ITM003,"Dal Makhani","Main Course","North Indian",220,93.38,350,Yes,2023-01-02
+ITM004,"Chicken Biryani","Rice & Biryani",Biryani,280,101.23,500,Yes,2019-03-16
+ITM005,"Veg Biryani","Rice & Biryani",Biryani,220,99.55,400,Yes,2023-01-01
+ITM006,"Mutton Biryani","Rice & Biryani",Biryani,350,141.54,550,Yes,2020-01-15
+ITM007,"Egg Biryani","Rice & Biryani",Biryani,200,107.68,450,Yes,2019-10-11
+ITM008,"Chicken Tikka Masala","Main Course","North Indian",310,114.89,380,Yes,2023-01-01
+ITM009,"Palak Paneer","Main Course","North Indian",260,134.93,320,Yes,2023-01-01
+ITM010,"Chole Bhature","Main Course","North Indian",180,82.04,600,Yes,2022-03-12
+ITM011,"Rajma Chawal","Main Course","North Indian",170,61.2,400,Yes,2023-01-01
+ITM012,"Kadai Chicken","Main Course","North Indian",300,109.22,350,Yes,2023-01-02
+ITM013,"Malai Kofta","Main Course","North Indian",260,128.89,500,Yes,2022-01-20
+ITM014,"Masala Dosa","South Indian",Dosa,130,61.15,350,Yes,2018-09-12
+ITM015,"Plain Dosa","South Indian",Dosa,100,49.62,200,Yes,2023-01-01
+ITM016,"Idli Sambar","South Indian",Tiffin,90,39.48,250,Yes,2018-05-06
+ITM017,"Medu Vada","South Indian",Tiffin,90,46.41,300,Yes,2019-01-06
+ITM018,Uttapam,"South Indian",Dosa,120,63.24,250,Yes,2021-10-14
+ITM019,"Curd Rice","South Indian",Rice,110,55.09,220,Yes,2023-01-01
+ITM020,"Chicken Chettinad","South Indian",Curry,290,142.82,400,Yes,2019-01-16
+ITM021,"Hyderabadi Biryani","Rice & Biryani",Biryani,300,116.64,550,Yes,2023-01-01
+ITM022,"Paneer Tikka",Starters,Tandoor,240,122.42,280,Yes,2022-06-18
+ITM023,"Chicken Tikka",Starters,Tandoor,270,139.18,250,Yes,2018-07-29
+ITM024,"Seekh Kebab",Starters,Tandoor,280,108.52,300,Yes,2020-05-06
+ITM025,"Chilli Chicken",Starters,Indo-Chinese,240,86.91,350,Yes,2023-01-01
+ITM026,"Chilli Paneer",Starters,Indo-Chinese,220,103.98,400,Yes,2023-01-01
+ITM027,"Spring Roll",Starters,Indo-Chinese,150,55.85,250,Yes,2021-11-16
+ITM028,Manchurian,Starters,Indo-Chinese,180,68.57,350,Yes,2018-01-26
+ITM029,"Hakka Noodles","Main Course",Indo-Chinese,180,77.96,400,Yes,2022-03-24
+ITM030,"Veg Fried Rice","Main Course",Indo-Chinese,170,70.66,350,Yes,2020-05-12
+ITM031,"Chicken Fried Rice","Main Course",Indo-Chinese,210,83.69,450,No,2020-08-26
+ITM032,"Margherita Pizza",Pizza,Classic,250,101.16,600,Yes,2018-10-29
+ITM033,"Farmhouse Pizza",Pizza,Loaded,320,112.64,650,Yes,2020-04-29
+ITM034,"Chicken Pepperoni Pizza",Pizza,Loaded,350,169.29,800,Yes,2021-09-05
+ITM035,"Veg Supreme Pizza",Pizza,Loaded,300,162.83,700,Yes,2023-01-01
+ITM036,"Cheese Burst Pizza",Pizza,Classic,280,122.28,900,Yes,2023-01-01
+ITM037,"Classic Veg Burger",Burgers,Veg,120,59.43,350,Yes,2019-09-24
+ITM038,"Chicken Burger",Burgers,Non-Veg,150,78.95,450,Yes,2018-12-28
+ITM039,"Paneer Wrap","Wraps & Rolls",Veg,140,76.58,450,Yes,2023-01-02
+ITM040,"Chicken Kathi Roll","Wraps & Rolls",Non-Veg,160,69.41,500,Yes,2018-09-20
+ITM041,"Egg Roll","Wraps & Rolls",Non-Veg,110,41.57,400,Yes,2021-09-08
+ITM042,"French Fries",Sides,Snacks,99,48.48,350,Yes,2023-01-01
+ITM043,"Garlic Bread",Sides,Snacks,120,60.99,300,Yes,2020-01-17
+ITM044,"Masala Papad",Sides,Snacks,60,28.12,50,Yes,2023-01-02
+ITM045,"Green Salad",Sides,Healthy,80,30.09,40,Yes,2019-02-10
+ITM046,Raita,Sides,Accompaniment,50,23.39,80,Yes,2020-02-17
+ITM047,"Gulab Jamun",Desserts,Sweets,90,34.85,300,Yes,2020-09-11
+ITM048,Rasmalai,Desserts,Sweets,110,46.48,250,Yes,2019-02-28
+ITM049,"Chocolate Brownie",Desserts,Bakery,140,56.14,400,Yes,2019-09-24
+ITM050,"Ice Cream Sundae",Desserts,Frozen,120,55.82,350,Yes,2023-01-02
+ITM051,"Gajar Ka Halwa",Desserts,Sweets,100,35.18,350,Yes,2023-01-01
+ITM052,"Masala Chai",Beverages,Hot,40,19.78,100,Yes,2023-01-01
+ITM053,"Cold Coffee",Beverages,Cold,90,40.13,250,Yes,2020-02-02
+ITM054,"Fresh Lime Soda",Beverages,Cold,70,25.1,80,Yes,2023-01-01
