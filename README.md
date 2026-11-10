@@ -21,7 +21,7 @@ Project Summary <img width="1200" height="600" alt="image" src="https://github.c
     
 ## 📑 Table of Contents
 
-- [Project Overview](#project-overview)
+- [Project Overview](#project-overview)            
 - [Business Problem](#business-problem)
 - [Architecture](#architecture)
 - [Dataset](#dataset)
